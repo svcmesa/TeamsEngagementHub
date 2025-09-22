@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EngagementHub", "EngagementHub\EngagementHub.csproj", "{959D432C-022B-A1AD-D2D3-A37FEE0DEDEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{959D432C-022B-A1AD-D2D3-A37FEE0DEDEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{959D432C-022B-A1AD-D2D3-A37FEE0DEDEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{959D432C-022B-A1AD-D2D3-A37FEE0DEDEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{959D432C-022B-A1AD-D2D3-A37FEE0DEDEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {551F0164-4355-411E-8088-54C88DCDBBF7}
+	EndGlobalSection
+EndGlobal

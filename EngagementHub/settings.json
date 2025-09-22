@@ -3,12 +3,12 @@
   "Values": {
     "AzureWebJobsStorage": "UseDevelopmentStorage=true",
     "FUNCTIONS_WORKER_RUNTIME": "dotnet",
-    "agentHubStorageConnectionString": "",
-    "acsConnectionString": "",
+    "agentHubStorageConnectionString": "DefaultEndpointsProtocol=https;AccountName=paemesatidevstorageaccou;AccountKey=RtIXE3Qn7Dzj1B6XKVSpZZoObZZC0tnFBZZh9q0t6F4s+YrBQSXsybhoac0zo1hITlg+4WIvnv5I+AStECenXg==;EndpointSuffix=core.windows.net",
+    "acsConnectionString": "endpoint=https://pae-mesati-dev-acs.brazil.communication.azure.com/;accesskey=6kg5ppZmrQEYBoMZRMh3Zpt5Ql3dv8a4wm7YOuJGMb2sNocd0GsaJQQJ99BIACULyCp1COLqAAAAAZCSzTUI",
     "botBaseAddress": "http://localhost:7150/",
     "useACSManagedIdentity": "false"
   },
-  "Host": {
+    "Host": {
     "CORS": "*"
   }
 }
